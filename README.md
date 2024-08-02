@@ -1,2 +1,2 @@
-# juejin-auto-signIn
-这是一个用于掘金自动签到的代码，可能会导致警告，后果自负
+- 在 Repository secrets 配置自己的 COOKIE，FEISHU_ROBOT，SECRET 即可(大写)
+- 同文 https://juejin.cn/post/7344259970521677864
